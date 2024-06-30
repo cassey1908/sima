@@ -54,7 +54,8 @@ alert("el resultado es :"  +resultado);
 
  console.log(hola);
 hola.addEventListener("click", function recarga(){
-    window.prompt("me llamo carla");
+    window.prompt
+    ("me llamo carla");
     //alert("hola me llamo carla");
 })
 
